@@ -1,10 +1,10 @@
 module.exports = {
-    HOST: "172.16.2.184",
-    USER: "witcha",
-    PASSWORD: "mozart6517",
-    DB: "witcha_db",
-    PORT: "47206",
-    DATABASE: "witcha_db",
+    HOST: "satao.db.elephantsql.com",
+    USER: "dsurjnxc",
+    PASSWORD: "ZwVzLPB8PlI3XB4w98tvvD3I6rXR8T7W",
+    DB: "dsurjnxc",
+    PORT: "5432",
+    DATABASE: "dsurjnxc",
     pool: {
       max: 5,
       min: 0,
